@@ -33,7 +33,7 @@ int print_u(va_list u)
 
 /**
  * print_o - a function that takes an unsigned int
- *and prints it in octal notation
+ * and prints it in octal notation
  * @o: unsigned int to print
  * Return: number of digits printed
  */
