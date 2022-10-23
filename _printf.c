@@ -4,6 +4,7 @@
 /**
  * check_for_specifiers - a function to check for a valid format specifier
  * @format: the possible format specifier
+ * Description:a function that checks for a valid format specifier
  * Return: the pointer to the valid function
  */
 static int (*check_for_specifiers(const char *format))(va_list)
