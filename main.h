@@ -30,4 +30,4 @@ typedef struct print
 	int (*f)(va_list);
 } print_t;
 
-#endif /* _MAIN_H_ */
+#endif /* _MAIN_H */
